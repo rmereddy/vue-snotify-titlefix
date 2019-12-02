@@ -1,7 +1,7 @@
 {
-  "name": "vue-snotify",
+  "name": "vue-snotify-titlefix",
   "version": "3.2.2",
-  "description": "A Vue.js toast notifications",
+  "description": "A Vue.js toast notifications .Toast title now can support more than 16 characters",
   "scripts": {
     "prestart": "npm run link:src",
     "start": "cross-env NODE_ENV=development npm run link:src && npm run example:dev",
@@ -51,11 +51,12 @@
   ],
   "author": {
     "name": "artemsky",
+    "name": "rmereddy",
     "email": "mr.artemsky@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/artemsky/vue-snotify"
+    "url": "https://github.com/rmereddy/vue-snotify-titlefix"
   },
   "homepage": "https://artemsky.github.io/vue-snotify",
   "license": "MIT",
