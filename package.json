@@ -1,5 +1,5 @@
 {
-  "name": "vue-snotify-titlefix",
+  "name": "vue-snotify-fixtitle",
   "version": "3.2.1",
   "description": "A Vue.js toast notifications now the toast title icon supports more than 16 characrers ",
   "main": "vue-snotify.common.js",
